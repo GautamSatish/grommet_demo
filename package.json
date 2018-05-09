@@ -6,7 +6,7 @@
   "scripts": {
     "dist": "webpack && node server/server.js",
     "dev": "webpack-dev-server",
-    "dataServer" : "node server/server.js",
+    "dataServer": "node server/server.js",
     "lint": "eslint --ext .jsx --ext .js src"
   },
   "repository": {
