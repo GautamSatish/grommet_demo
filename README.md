@@ -1,4 +1,4 @@
-# React Redux Demo
+# Grommet Demo
 
 This is a basic hands-on exericse intended to familiarize users with the Redux in React apps.
 
