@@ -1,6 +1,8 @@
 # Grommet Demo
 
-This is a basic hands-on exericse intended to familiarize users with the Redux in React apps.
+<a href="https://snyk.io/test/github/GautamSatish/grommet_demo"><img src="https://snyk.io/test/github/GautamSatish/grommet_demo/badge.svg" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/GautamSatish/grommet_demo" style="max-width:100%;"></a>
+
+A sample app that demonstrates some of the features from the Grommet library.
 
 To get started,
 
